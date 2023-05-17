@@ -35,7 +35,7 @@ setTimeout(()=>{
                                     span.innerHTML=count
                                     setTimeout(()=>{
                                         count= count-1
-                                        span.innerHTML="Happy BIRTHDAY Asheyyyy💞😘"
+                                        span.innerHTML="HAPPY BIRTHDAY Asheyyyy💞😘"
                                  },1000)
                              },1000)
                          },1000)
